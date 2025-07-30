@@ -1,5 +1,3 @@
-/ {
-    zmk,split {
-        peripheral = true;
-    };
+&zmk_split {
+    peripheral = true;
 };
